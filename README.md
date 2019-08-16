@@ -1,0 +1,5 @@
+# LogoQrcode
+给二维码添加logo
+xing是一个条形码、二维码的解析工具包，支持多种格式，面向制作解析二维码时可以快速应用，并且zxing支持多种语言，java、python等编程环境都可以使用。
+
+由于需要处理二维码，将不带logo的二维码解析出内容，重新生成带logo的二维码，因此近日使用到了zxing包，当前正在熟悉python语言，因此使用python开发，tkinter为windows框架。
